@@ -1,2 +1,2 @@
 # energy_demand_forecasting
-Bu repo, Kolombiya'yaya ait enerji talebi verileri üzerinde gerçekleştirmiş olduğum bir çalışmanın kod dosyalarını içermektedir.
+Bu repo, Kolombiya'ya ait enerji talebi verileri üzerinde gerçekleştirmiş olduğum bir çalışmanın kod dosyalarını içermektedir.
